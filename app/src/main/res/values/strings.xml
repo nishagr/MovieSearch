@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie Display</string>
+    <string name="etSearch">Enter Movie to Search</string>
+    <string name="search">Search</string>
+    <string name="search_again">Search Again</string>
+    <string name="previous_page">Previous</string>
+    <string name="next_page">Next</string>
+    <string name="not_available">N/A</string>
+    <string name="unknown_release_date">Unknown Release Date</string>
+    <string name="unknown_runtime">Unknown Runtime</string>
+    <string name="unknown_genre">Unknown Genre</string>
+    <string name="unknown_director">Unknown Director</string>
+    <string name="unknown_writer">Unknown Writer</string>
+    <string name="unknown_plot">Unknown Plot</string>
+    <string name="not_rated">Not Rated</string>
+    <string name="unknown_production">Unknown Production</string>
+    <string name="number_of_results">Number of Results = </string>
+    <string name="empty_query">Enter a movie to search.\n Field cannot be empty.</string>
+    <string name="no_movie_found">No Movie Found</string>
+</resources>
